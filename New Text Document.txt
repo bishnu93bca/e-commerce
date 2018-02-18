@@ -1,0 +1,21 @@
+Structure of ecommerce
+
+	1) The webiste for all
+	2) The Cart & checkout system
+	3) customer Account
+	4) Admin Panel
+
+
+MySQL Database Structure:
+	Database: One Database with 8 tables
+
+
+Tables Structure:
+	1) Products
+	2) Categories
+	3) Brands
+	4) cart
+	5) customers
+	6) orders
+	7) admins
+	8) payments
