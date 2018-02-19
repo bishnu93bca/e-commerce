@@ -1,4 +1,4 @@
-# Sample E-commerce Porject 
+ # Sample E-commerce Porject 
 
 git config --global user.email bishnu99bca@gmail.com"
 git config --global user.name "Bishnu Ray"
