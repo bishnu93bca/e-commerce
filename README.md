@@ -1,6 +1,6 @@
  # Sample E-commerce Porject 
-Git global setup 
-	git config --global user.name "Demo"
+"Git global setup" 
+	"git config --global user.name 'Demo'"
 	git config --global user.email "Demo@gmail.com"
 
 Create a new repository
